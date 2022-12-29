@@ -4,7 +4,7 @@
 
 <ul>
   <li>🌱I’m currently working on my coding skills.</li>
-  <li>👩‍💻I'm currently setting my hands in web development</li>
+  <li>👩‍💻I'm currently setting my hands in web development.</li>
   <li>📝Reach me out here - <a href="https://www.linkedin.com/in/ishikaagarwal3031/"> Linkedin</a>, <a href="ishikaagarwal3031@gmail.com">Gmail</a></li>
 </ul> 
 
