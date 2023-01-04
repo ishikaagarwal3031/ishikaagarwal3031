@@ -1,4 +1,4 @@
-<h3>Hi there 👋 My name is Ishika Agarwal, currently pursuing B.Tech in Information Technology who is explore more about new opportunities for a successful career growth.✨</h3>
+<h3>Hi there 👋 My name is Ishika Agarwal, currently pursuing B.Tech in Information Technology who is exploreing more about new opportunities for a successful career growth.✨</h3>
 
   <h2>About Me:</h2>
 
