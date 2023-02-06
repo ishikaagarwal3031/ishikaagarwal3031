@@ -14,6 +14,8 @@
   <li>📍C, C++</li>
   <li>📍Python</li>
   <li>📍HTML</a></li>
+  <li>📍CSS</a></li>
+  <li>📍JavaScript</a></li>
 </ul>
 
 <!---
