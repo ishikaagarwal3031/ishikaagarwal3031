@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m setting my hands on **my coding skills.**
+- 🔭 Currently, I am actively engaging in the development of my **coding skills.**
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 At the moment, I am in the process of acquiring knowledge and skills in the field of **web development.**
 
 - 📫 How to reach me **ishikaagarwal3031@gmail.com**
 
