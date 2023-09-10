@@ -9,7 +9,7 @@
 
 - 🌱 At the moment, I am in the process of acquiring knowledge and skills in the field of **web development.**
 
-- 👩‍💻 Nowadays, I am also engagaed in exploring **Machine Learning.**
+- 👩‍💻 Nowadays, I am also engaged in exploring **Machine Learning.**
 
 - 📫 How to reach me **ishikaagarwal3031@gmail.com**
 
