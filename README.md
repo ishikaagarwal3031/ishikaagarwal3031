@@ -3,7 +3,7 @@
 
 <h3 align="center">Hi, I'm Ishika Agarwal, an enthusiastic individual skilled in frontend development, actively exploring Machine Learning, and presently dedicated to furthering my understanding of Data Structures and Algorithms.</h3>
 <br>
-<img align="right" alt="GIF" width="500" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif">
+<img align="right" alt="GIF" width="450" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif">
 
 - 🔭 Currently, I am actively engaging in the development of my **coding skills.**
 
